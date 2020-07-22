@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-12T15:03:45 EDT" name="Suite" finished-at="2020-05-12T15:03:45 EDT" duration-ms="77">
+    <groups>
+    </groups>
+    <test started-at="2020-05-12T15:03:45 EDT" name="Test" finished-at="2020-05-12T15:03:45 EDT" duration-ms="77">
+      <class name="MavenProject.E2E_Framework.propertyBasePage">
+        <test-method signature="bawar()[pri:0, instance:MavenProject.E2E_Framework.propertyBasePage@12e61fe6]" started-at="2020-05-12T15:03:45 EDT" name="bawar" finished-at="2020-05-12T15:03:45 EDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bawar -->
+        <test-method signature="hamid()[pri:0, instance:MavenProject.E2E_Framework.propertyBasePage@12e61fe6]" started-at="2020-05-12T15:03:45 EDT" name="hamid" finished-at="2020-05-12T15:03:45 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamid -->
+      </class> <!-- MavenProject.E2E_Framework.propertyBasePage -->
+      <class name="MavenProject.E2E_Framework.NecessaryPage">
+        <test-method signature="bawar()[pri:0, instance:MavenProject.E2E_Framework.NecessaryPage@1677d1]" started-at="2020-05-12T15:03:45 EDT" name="bawar" finished-at="2020-05-12T15:03:45 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bawar -->
+        <test-method signature="hamid()[pri:0, instance:MavenProject.E2E_Framework.NecessaryPage@1677d1]" started-at="2020-05-12T15:03:45 EDT" name="hamid" finished-at="2020-05-12T15:03:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamid -->
+      </class> <!-- MavenProject.E2E_Framework.NecessaryPage -->
+      <class name="MavenProject.E2E_Framework.HomePage">
+        <test-method signature="run()[pri:0, instance:MavenProject.E2E_Framework.HomePage@7ee955a8]" started-at="2020-05-12T15:03:45 EDT" name="run" finished-at="2020-05-12T15:03:45 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- MavenProject.E2E_Framework.HomePage -->
+      <class name="MavenProject.E2E_Framework.LogInPage">
+        <test-method signature="bawar()[pri:0, instance:MavenProject.E2E_Framework.LogInPage@48fa0f47]" started-at="2020-05-12T15:03:45 EDT" name="bawar" finished-at="2020-05-12T15:03:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bawar -->
+        <test-method signature="hamid()[pri:0, instance:MavenProject.E2E_Framework.LogInPage@48fa0f47]" started-at="2020-05-12T15:03:45 EDT" name="hamid" finished-at="2020-05-12T15:03:45 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamid -->
+      </class> <!-- MavenProject.E2E_Framework.LogInPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
